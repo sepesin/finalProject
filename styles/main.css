@@ -1,5 +1,7 @@
 html {
-	background-color: lightgrey;
+	background-color: #373737;
+/*	padding-right: 130px;
+	padding-left: 130px;*/
 
 }
 
@@ -36,13 +38,22 @@ html {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    border-right: solid #F4F4F4;
     /*font-size: 16px;*/
-    box-shadow: 0 1px 1px 1px rgba(0,0,0,0.2), 0 1px 1px 0 rgba(0,0,0,0.19);
+   /* box-shadow: 0 1px 1px 1px rgba(0,0,0,0.2), 0 1px 1px 0 rgba(0,0,0,0.19);*/
 	
 }
 
 a {
-	color: green;
+	color: #DCD0C0;
 	text-decoration: none;
 	font-size: 25px;
+}
+
+li {
+	color: #C0B283;
+}
+
+h2 {
+	color: #C0B283;
 }
