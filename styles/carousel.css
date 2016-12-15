@@ -34,6 +34,7 @@ body {
 }
 
 
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
@@ -100,7 +101,7 @@ body {
   /* Navbar positioning foo */
   .navbar-wrapper {
     margin-top: 20px;
-  }
+      }
   .navbar-wrapper .container {
     padding-right: 15px;
     padding-left: 15px;
