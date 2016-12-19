@@ -51,6 +51,7 @@ li {
 
 h2 {
 	color: #C0B283;
+
 }
 
 .navbar-wrapper {
@@ -58,9 +59,9 @@ h2 {
 }
 
 .item {
-    display: flex !important;
+/*    display: flex !important;
     justify-content: center;
-    align-items: center;
+    align-items: center;*/
 }
 
 .carousel-caption {
