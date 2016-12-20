@@ -58,12 +58,31 @@ h2 {
     margin-top: 0;
 }
 
+.fill-slide {
+	height: 100%;
+	background-size: cover;
+	background-position: center;
+	/*background-color: red;*/
+}
+
 .item {
 /*    display: flex !important;
     justify-content: center;
     align-items: center;*/
+
+    background-size: cover;
+    background-position: center;
+}
+
+.item img {
+	height: 100%;
+	width: 100%;
 }
 
 .carousel-caption {
     font-size: 50px;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img{
+    margin:auto;
 }
